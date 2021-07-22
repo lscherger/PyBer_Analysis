@@ -15,6 +15,7 @@ The CEO of PyBer, V.Isualize, additionally requested a new analysis, including a
 ### Deliverable 1: _A ride-sharing summary DataFrame by city type_
 
 **Image 1: Ride-sharing data includes the total rides, total drivers, total fares, and average fare per ride and driver.**
+
 <img width="494" alt="Screen Shot 2021-07-20 at 12 05 38 PM" src="https://user-images.githubusercontent.com/85946042/126365962-dc357978-6a9c-49dd-9814-cbb448f59a53.png">
 
 Total ride counts increase as city population size increase; rural cities had 125 total rides, suburban cities had 625 total rides, and urban cities had 1625 rides. 

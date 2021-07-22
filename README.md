@@ -3,16 +3,13 @@ Analyze PyBer ride share data using Python 3.9.6 and Jupyter Notebook 6.3.0
 
 ## Overview of Project
 
-### Background
-While working on the analysis of PyBer data by city type, the PyBer CEO, V.Isualize, requests a new analysis including a summary data frame and chart showing total fares for January - April 2019 for each city type. 
-
 ### Purpose
-As an introduction to Matplotlib, the purpose of this project was to utilize plots in Pandas DataFrames with Python to complete the analysis and visualize the data. 
-V.Isualize requested a new analysis, so the script will produce a summary and line plot for the purpose of making recommendations to address disparities among the city types. 
+As an introduction to Matplotlib, the purpose of this project was to utilize plots in Pandas DataFrames with Python to complete the analysis and visualize the ride sharing data by city type for PyBer. The CEO of PyBer, V.Isualize, additionally requested a new analysis, including a summary and line plot for the purpose of making recommendations to address disparities among the city types. 
 
 
 ## Results
 There is a description of the differences in ride-sharing data among the different city types. 
+Total ride counts are smallest in rural cities (125) and largest in urban cities (1625), with suburban cities falling in between (625). The total fares increase with rides, so that the largest sum is for urban cities. Still, the average fare per ride is higher in rural cities. Total driver counts are smallest in rural cities (78) and largest in urban cities (2405), with suburban cities falling in between (490). Still, the average fare per driver is highest in rural cities ($55.49), and smallest for urban cities ($16.57), while average fare per driver is $39.50 in suburban cities. 
 
 ### Deliverable 1: _A ride-sharing summary DataFrame by city type_
 Ride-sharing data includes the total rides, total drivers, total fares, and average fare per ride and driver.
